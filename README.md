@@ -1,6 +1,13 @@
 # INFO 3305 Section 02 WEB APPLICATION DEVELOPMENT
 # Group.A
-# Mahallah Ali Cafe Order Management System
+# Mahallah Ali Cafe Order Management System 
+<!-- You can use comments to add notes 
+     that are only visible in the markdown source -->
+     
+<!-- Website title can be changed -->
+<!-- No need for pulling requests if you want to do any changes to this readme file though any 
+     minor changes can be informed through whatsapp -->
+<!-- Major updates for our project can be made on the changelog below-->
 
 ## 🍽️ Project Overview
 
@@ -48,3 +55,17 @@ For more information, please reach out to [Project Lead Email]
 ---
 
 *Transforming campus dining, one order at a time!* 🍔🥤
+
+## Changelog
+
+### v1.0.0 - 15/12/2024
+#### Added
+- Initial project setup
+- Basic README documentation
+
+### v0.2.0 - DD_MM_YYYY
+#### Changes
+- Updated project structure
+- Refined README layout
+
+
