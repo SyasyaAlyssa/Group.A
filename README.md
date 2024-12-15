@@ -50,11 +50,13 @@ We are developing a comprehensive web application to streamline the ordering and
 5. Collect food at designated pickup area
 
 ## 📞 Contact
-For more information, please reach out to [Project Lead Email]
+For more information, please reach out to [afiq0607@gmail.com]
 
 ---
 
 *Transforming campus dining, one order at a time!* 🍔🥤
+
+---
 
 ## Changelog
 
@@ -63,9 +65,6 @@ For more information, please reach out to [Project Lead Email]
 - Initial project setup
 - Basic README documentation
 
-### v0.2.0 - DD_MM_YYYY
-#### Changes
-- Updated project structure
-- Refined README layout
+
 
 
