@@ -49,6 +49,18 @@ We are developing a comprehensive web application to streamline the ordering and
 4. Receive order confirmation
 5. Collect food at designated pickup area
 
+## Features and Functionalities
+1. User and management
+   - manage registration and login
+2. Stall selection
+   - select choices of stall available and displaying menu
+3. Place order
+   - add order to cart
+4. Payment
+   - QR pay provided by sellers, e-wallet, cash
+5. Order tracking
+   - order subbmitted, order preparing and order prepared or pickup
+
 ## 📞 Contact
 For more information, please reach out to [afiq0607@gmail.com]
 
