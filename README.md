@@ -1,5 +1,5 @@
 # INFO 3305 Section 02 WEB APPLICATION DEVELOPMENT
-# Group.A
+# Group A
 # Mahallah Ali Cafe Order Management System 
 <!-- You can use comments to add notes 
      that are only visible in the markdown source -->
