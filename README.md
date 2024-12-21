@@ -59,7 +59,7 @@ We are developing a comprehensive web application to streamline the ordering and
 4. Payment
    - QR pay provided by sellers, e-wallet, cash
 5. Order tracking
-   - order subbmitted, order preparing and order prepared or pickup
+   - order submitted, order preparing and order prepared or pickup
 
 ## 📞 Contact
 For more information, please reach out to [afiq0607@gmail.com]
