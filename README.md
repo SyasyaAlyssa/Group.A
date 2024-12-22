@@ -60,6 +60,10 @@ We are developing a comprehensive web application to streamline the ordering and
    - QR pay provided by sellers, e-wallet, cash
 5. Order tracking
    - order submitted, order preparing and order prepared or pickup
+  
+## Sequence Diagram
+![image](https://github.com/user-attachments/assets/7158121a-2236-4ee0-a486-7526b97f8aca)
+
 
 ## 📞 Contact
 For more information, please reach out to [afiq0607@gmail.com]
