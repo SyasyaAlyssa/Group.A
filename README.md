@@ -69,6 +69,11 @@ We are developing a comprehensive web application to streamline the ordering and
 ## Sequence Diagram
 ![image](https://github.com/user-attachments/assets/7158121a-2236-4ee0-a486-7526b97f8aca)
 
+## References
+1) Foodpanda Malaysia (https://www.foodpanda.my)
+2) GrabFood Delivery (https://www.food.grab.com.my)
+3) ShopeeFood (https://www.shopee.com.my)
+
 ## Changelog
 
 ### v1.0.0 - 15/12/2024
