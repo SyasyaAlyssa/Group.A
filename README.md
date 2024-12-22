@@ -47,7 +47,8 @@ We are developing a comprehensive web application to streamline the ordering and
 2. Select and customize orders
 3. Make digital payment
 4. Receive order confirmation
-5. Collect food at designated pickup area
+5. Food will be delivered
+6. Make feedback about food order
 
 ## Features and Functionalities
 1. User and management
@@ -60,19 +61,13 @@ We are developing a comprehensive web application to streamline the ordering and
    - QR pay provided by sellers, e-wallet, cash
 5. Order tracking
    - order submitted, order preparing and order prepared or pickup
+6. Create Feedback
+   - add order feedback after receiving order
+  
+## ERD Diagram
   
 ## Sequence Diagram
 ![image](https://github.com/user-attachments/assets/7158121a-2236-4ee0-a486-7526b97f8aca)
-
-
-## 📞 Contact
-For more information, please reach out to [afiq0607@gmail.com]
-
----
-
-*Transforming campus dining, one order at a time!* 🍔🥤
-
----
 
 ## Changelog
 
